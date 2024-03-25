@@ -1,0 +1,64 @@
+body{
+    background-color:rgb(163, 182, 139);   /* color del fondo de la pagina*/
+}
+
+body{
+    font-size:medium;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-size:medium;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center; /* para centrar el titulo de la pagina*/
+}
+
+.logo {
+    text-align: center;  /* para centrar el logo de la pagina  */
+}
+
+
+p{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+
+h4{
+    text-align: center;
+}
+
+
+.img{
+    text-align: center;
+}
+
+
+p{
+    text-align:center;
+}
+
+a{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(205, 67, 67);
+    text-align: center;
+}
+
+
+.img{
+    display: center;
+    justify-content: center;
+}
